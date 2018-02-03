@@ -1,13 +1,5 @@
 /*
- * CS 350, Fall 2017
- .* Final Project: LC-3 Simulator (kch solution)
- .*
- * Illinois Institute of Technology, (c) 2017, Kyle C. Hale
- *
- * This is the skeleton code for the final project (LC-3 simulator).
- *
- * Fill in code where there are FILL ME IN comments.
- *
+ * CS 350 LC3 Final Project
  */
 
 #include <stdio.h>
@@ -20,6 +12,8 @@
  * Explains the usage of this program
  */
 
+
+// 8 bit floating point funtionality
 
 static float
 flt_fun(int m, int e){
